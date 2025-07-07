@@ -1,9 +1,10 @@
 @charset "utf-8";
-@font-face{
+/*@font-face{
     font-family: 'rocksalt';
     src: url("midias/fonts/rock_salt/rockSalt-Regular.ttf");
     font-weight: normal;
-}
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 @font-face{
     font-family: "quicksand";
     src: url("midias/fonts/Quicksand/Quicksand-VariableFont_wght.ttf");
@@ -22,7 +23,9 @@ header{
 h1{
     margin: 0px;
     font-size: 50px;
-    font-family: 'rocksalt', 'helvetica', 'sans-serif';
+    font-family: "Rock Salt", 'helvetica', 'sans-serif';
+    font-weight: 400;
+    font-style: normal;
 }
 header > p{
     margin: 0px;
