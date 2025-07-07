@@ -1,15 +1,13 @@
 @charset "utf-8";
 @font-face{
     font-family: 'rocksalt';
-    src: url("midias/fonts/rock_salt/RockSalt-Regular.ttf");
+    src: url("midias/fonts/rock_salt/rockSalt-Regular.ttf");
     font-weight: normal;
-    font-size: normal;
 }
 @font-face{
     font-family: "quicksand";
     src: url("midias/fonts/Quicksand/Quicksand-VariableFont_wght.ttf");
     font-weight: normal;
-    font-size: normal;
 }
 @font-face{
     font-family: 'spacemono';
